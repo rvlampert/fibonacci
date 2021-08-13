@@ -7,4 +7,4 @@ The objective of this project is to present a basic implementation using .NET an
 
 ## How to run
 
-Use ```make run``` command to run the program
+in project, use ```make run``` command to run the program
