@@ -1,4 +1,4 @@
-# dotnet-fibonacci
+# fibonacci
 A basic .NET project that implements fibonacci
 
 ## Objective
